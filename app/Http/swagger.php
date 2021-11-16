@@ -8,14 +8,14 @@
      *     title="LRS system",
      *     description="REST APIs to validate and store statements",
      *     @OA\Contact(
-     *         name="Zanichelli DEV team",
-     *         email="giuseppe.saraceno@zanichelli.it"
+     *         name="Datolab DEV team",
+     *         email="support@datolab.com"
      *     ),
      * )
      * @OA\Server(
      *     url=APP_URL
      * )
-     * 
+     *
      */
 
     /**
